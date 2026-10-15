@@ -1,0 +1,4 @@
+apple banana apple cherry date
+banana cherry date elderberry
+apple date elderberry fig
+cherry fig grape apple

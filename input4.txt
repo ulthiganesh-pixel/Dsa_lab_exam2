@@ -1,0 +1,4 @@
+Tries store keys in a trie data structure.
+Binary search trees maintain lexicographic order.
+Python dictionaries provide fast lookups using hash maps.
+Linked lists track exact line numbers where each word appears.

@@ -1,0 +1,4 @@
+First line: intro to sorting;
+Second line, checking commas.
+Third line. Full stop check!
+Fourth line; semicolon and colon: test.
